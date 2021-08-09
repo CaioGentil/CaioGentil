@@ -6,7 +6,6 @@
 - 📫 E-mail para contato: cgentilsilva@gmail.com   
 - 📋 LinkedIn: https://www.linkedin.com/in/caio-gentil/ 
 - 🌈 Pronomes: Ele/Dele
-
 <div>
   <a href="https://github.com/CaioGentil">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiogentil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
